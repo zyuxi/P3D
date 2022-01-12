@@ -30,9 +30,7 @@ public class ScoringSystem : MonoBehaviour
                 //Number of object spawned +1.
                 numObjects++;
             }
-
         }
-
     }
 
     //Functipn of spawn object.

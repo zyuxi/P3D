@@ -65,7 +65,7 @@ public class PickupClass : MonoBehaviour
     {
         if (canPick)
         {
-            GUI.Box(new Rect(Screen.width / 2, Screen.height / 2, 50, 50), "Can Pick");
+            GUI.Box(new Rect(Screen.width / 2, Screen.height / 2, 70, 70), "Can Pick");
         }
 
     }
